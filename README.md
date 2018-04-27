@@ -1,13 +1,6 @@
 # Sci Chicken
 
-
-A PUBG pcap playback system that does not hog CPU/GPU, works with version 3.7.19.
-
-#此版本并非我修复，看到KFC更新后才clone过来的，目前存在几个bug！
-1.人物编号，血量显示错误！
-2.人物偶尔会消失！
-3.自己在载具上不会跟随刷新！
-4.物品不会实时刷新！
+A PUBG pcap playback system that does not hog CPU/GPU, works with version 3.7.28.9.
 
 ## Sniff
 
